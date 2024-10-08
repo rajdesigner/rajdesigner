@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I am a frontend developer with a focus on web fundamentals. I work at Walker Digital to deliver the quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful. A
+👨‍💻 I am a frontend developer with a focus on web fundamentals. I work at Walker Digital to deliver the quality products. I build personal projects during my free time and share them with all of you to help us grow together. Please go through my repos and you might come across something useful.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajsparx) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rajnishty) 
